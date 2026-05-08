@@ -2,6 +2,9 @@
 # Automated BlendShape Control Connection Tool v1 #
 ###################################################
 
+# Author: Cody P
+# Version: 1.0
+
 #Procedural node creation, range remapping, non-destructive rigging, data-driven, naming convention automation
 
 #Script order: query scene info, create utility functions, build node networks, handle special cases,
