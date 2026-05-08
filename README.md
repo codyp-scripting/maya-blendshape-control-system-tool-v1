@@ -21,3 +21,8 @@ Directions to use:
   - Select positive or negative movement to be evaluted; invert allows user to read opposite movement if applicable or wanted
   - Travel limit is the value of a control's movement along an axes in world space. Creates attribute in channel box.
     Example: "Cheek Puff bs target" reaches 0 to 1 once control reaches specified target range 3 along Z.
+8. Click "Connect BlendShape" and done!
+9. "Disconnect Target" option can be used to break blend shape targets to a control
+  - Cut all incoming connections to a blendshape target
+  - Automated node editor -> break connection
+
